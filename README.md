@@ -10,4 +10,4 @@ Devices can be controlled without the central hub or app needing to understand t
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 
-![image](https://github.com/Lemuel21/CommandPattern_Assignment/assets/142371919/17647cf7-dcd9-4eaf-8a0d-a62a40b567c7)
+https://lucid.app/publicSegments/view/0dfa744d-509d-41e9-85ce-184e7efb45f3/image.png
