@@ -9,4 +9,5 @@ New devices can be seamlessly integrated into the system without modifying exist
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
-![image](https://github.com/Lemuel21/CommandPattern_Assignment/assets/142371919/db3fef10-6412-4d39-b3b9-083bf6d74523)
+
+![image](https://github.com/Lemuel21/CommandPattern_Assignment/assets/142371919/17647cf7-dcd9-4eaf-8a0d-a62a40b567c7)
